@@ -5,11 +5,17 @@ body {
   font-weight: 500;
 }
 
+.background {
+  background: url("../images/bg-main-mobile.png");
+}
+
 .card-rotate-back-mobile {
+  background: url("../images/bg-card-back.png");
   animation: card-rotate-back-mobile 1.5s ease-out forwards;
 }
 
 .card-rotate-mobile {
+  background: url(../images/bg-card-front.png);
   animation: card-rotate-mobile 1.5s ease-out forwards;
 }
 
@@ -70,6 +76,9 @@ body {
 }
 
 @media (min-width: 1280px) {
+  .background {
+    background: url(../images/bg-main-desktop.png);
+  }
   .card-rotate-front {
     animation: card-rotate 1.5s ease-out;
   }

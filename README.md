@@ -26,7 +26,7 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 
 ### Links
 
-- Live Site URL: [https://dejuliansr.github.io/front-end-mentor-interactive-card-details-form](https://dejuliansr.github.io/front-end-mentor-interactive-card-details-form)
+- Live Site URL: [https://dejuliansr.github.io/front-end-mentor-multi-interactive-card-details-form/](https://dejuliansr.github.io/front-end-mentor-multi-interactive-card-details-form/)
 
 ## My process
 
